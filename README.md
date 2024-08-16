@@ -1,7 +1,7 @@
 <h1 id="title">ReadMe file for "A Unique Empoloyee Payroll Tracker"</h1><img src = "https://badgen.net/badge/license/MIT">
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
-<p><img src = "screenshot.png"></p> 
+<p><a href = "https://davehyler.github.io/unique-employee-payroll-tracker/"><img src = "screenshot.png"></a></p> 
 <nav>
 <h2>Table Of Contents</h2>
 <ol>
