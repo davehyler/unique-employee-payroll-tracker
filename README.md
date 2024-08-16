@@ -24,7 +24,7 @@
 <h3 id="license">License: MIT</h3>
 <p>Badge: <a href = "https://opensource.org/license/mit"><img src = "https://badgen.net/badge/license/MIT"></a></p>
 <h3 id="description">Description of project:</h3>
-<p>This is a simple Employee Payroll Tracker)</p>
+<p>This is a simple Employee Payroll Tracker</p>
 <h3 id="instructions">Instructions:</h3>
 <p>Follow link below to deployed Website (https://davehyler.github.io/unique-employee-payroll-tracker/), press the only button on the body of the page, and follow all prompts.</p>
 <h3 id="usage">From source readme:</h3>
