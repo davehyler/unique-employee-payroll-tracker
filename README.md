@@ -49,4 +49,4 @@
 <li class="list-group-item" id="username">GitHub username: davehyler</li>
 <li class="list-group-item" id="email">Email:  davehyler@github.com (placeholder since this is a publicly accessible and scrapable page)</li>
 </ul>
-<a href = "[https://app.screencastify.com/v3/watch/WyreqWfdYCzqPPtEFKya](https://davehyler.github.io/unique-employee-payroll-tracker/)">Launch Payroll Application Here</a>
+<a href = "https://davehyler.github.io/unique-employee-payroll-tracker/">Launch Payroll Application Here</a>
