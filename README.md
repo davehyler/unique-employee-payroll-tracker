@@ -42,7 +42,7 @@
 <h3 id="guidelines">Guidelines for Contribution:</h3>
 <p>To contribute, please upload your code or alterations to a commit and it will be reviewed.</p>
 <h3 id="testing">Tests</h3>
-<p>Test by opening the file within your terminal using node.js</p>
+<p>N/A. If you would like to write a test for these functions, feel free.</p>
 </ul>
 <h3>Questions? Contact Me:</h3>
 <ul class="list-group">
